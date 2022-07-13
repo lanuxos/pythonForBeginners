@@ -17,3 +17,6 @@
     - Python turtle - 013200
     - for loop - 015755
     - list
+# EP.3
+    - Basic GUI - Tkinter - 003445
+    - Function - 011420
