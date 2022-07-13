@@ -25,3 +25,10 @@
     - list - 011900
     - for - 015000
     - dict - 022444
+# EP.5
+    - GUI Tab - 002735
+    - try/except - 011919
+    - messagebox - 013225
+    - Indentation error [Tab/Space] - 014900
+    - if/else - 020400
+    - return - 020500
