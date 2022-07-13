@@ -20,3 +20,8 @@
 # EP.3
     - Basic GUI - Tkinter - 003445
     - Function - 011420
+# EP.4
+    - Sublime Text and Visual Studio Code Installation - 002235
+    - list - 011900
+    - for - 015000
+    - dict - 022444
